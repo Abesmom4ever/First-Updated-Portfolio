@@ -76,12 +76,12 @@ h2 {
     border-radius: 10px;
 }
 
-#AutoShow {
+#MarvelQuiz {
     text-align: center;
     padding: 10px;
 }
 
-#AutoShow img {
+#MarvelQuiz img {
     width: 50%;
     height: auto;
     border: 10px lightblue;
